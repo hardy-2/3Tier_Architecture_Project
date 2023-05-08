@@ -73,12 +73,13 @@ A Record
 
 ## 😀시연 사진
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/57e6b5e7-1506-4542-b3c9-26cafc9e6b18/Untitled.png)
+![1](https://user-images.githubusercontent.com/73948888/236827125-82552ebd-cd17-41d6-b36e-c3b7fbcb9824.png)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d083284c-0fe5-4ac7-b4cf-116691297674/Untitled.png)
+![2](https://user-images.githubusercontent.com/73948888/236827134-0170f7a7-7a63-4f57-a20d-48bb5b1b76f5.png)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/afda6af1-5f21-4be6-b495-b887da9e0060/Untitled.png)
+![3](https://user-images.githubusercontent.com/73948888/236827137-88da3235-26a4-4400-a0bc-ff856dd3b008.png)
+
